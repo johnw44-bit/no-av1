@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "No AV1 (YouTube)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stänger av AV1 på YouTube så att VP9/H.264 avkodas i hårdvara. 1080p60 i 2,5x utan lagg.",
   "content_scripts": [{
     "matches": ["*://*.youtube.com/*", "*://*.youtube-nocookie.com/*"],
